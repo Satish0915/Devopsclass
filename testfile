@@ -1,0 +1,5 @@
+Welcome to git with bash scripts
+git status
+git add - to add file
+git commit - m - to move file to local Area
+git push -u - to move it to remore repo
