@@ -20,4 +20,11 @@ public class CallingMethodsInSameClass
 		printOne();
 		printOne();
 	}
+	# added some new features for java methods by Umesh
+	
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
 }
