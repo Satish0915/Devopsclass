@@ -20,4 +20,11 @@ public class CallingMethodsInSameClass
 		printOne();
 		printOne();
 	}
+	# feature202 changes made by Satish on April 12/22023
+	public static void printList(int[] list)
+	{	System.out.println("index, value");
+		for(int i = 0; i < list.length; i++)
+		{	System.out.println(i + ", " + list[i]);
+		}
+	}
 }
