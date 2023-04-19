@@ -7,3 +7,4 @@ echo "original decimal number: $orig_dec <br>";
 echo "new binary number: $dec2bin <br>";
 echo "back to decimal: $bin2dec <br>";
 ?>
+adding more code
