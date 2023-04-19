@@ -53,3 +53,13 @@ echo "original decimal number: $orig_dec <br>";
 echo "new binary number: $dec2bin <br>";
 echo "back to decimal: $bin2dec <br>";
 ?>
+
+$var1 = "0";
+    $var2 = "1";
+    $var3 = "";
+
+    if (empty($var1)) print "Var1 empty\n";
+    if (empty($var2)) print "Var2 empty\n";
+    if (empty($var3)) print "Var3 empty\n";
+    if (empty($var4)) print "Var4 empty\n";
+
